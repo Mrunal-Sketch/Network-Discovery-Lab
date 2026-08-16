@@ -6,6 +6,6 @@ A BEGINNER LAB TO DOCUMENT AND UNDERSTAND MY HOME NETWORK
 - Ping test Successful Replay Receive, 0% Packet Loss
 - Traceroute to Google.com, Hops Recorded
 
-## Screenshot
+## Screenshots
 
 ![Ping Test](Screenshots/Ping-Test.png)
