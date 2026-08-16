@@ -8,6 +8,8 @@ A BEGINNER LAB TO DOCUMENT AND UNDERSTAND MY HOME NETWORK
 
 ## Screenshots
 
+###Ping Test
 ![Ping Test](Screenshots/PingTest.png)
 
-![tracert Test](Screenshots/TracertTest.png)
+###Tracert Test
+![Tracert Test](Screenshots/TracertTest.png)
