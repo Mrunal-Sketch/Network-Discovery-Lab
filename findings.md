@@ -6,7 +6,7 @@ One Broadband
 ## Router Model
 TP-Link Archer C20
 
-## Local IP Assress
+## Local IP Address
 192.168.0.105
 
 ## Default Gateway
