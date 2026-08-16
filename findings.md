@@ -14,3 +14,11 @@ TP-Link Archer C20
 
 ## DNS Server
 192.168.0.1
+
+## Connected Devices
+192.168.0.101
+192.168.0.105
+
+##Wi-Fi Name (SSID)
+Mrunal
+Mrunal_5g
