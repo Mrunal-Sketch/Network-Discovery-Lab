@@ -8,4 +8,4 @@ A BEGINNER LAB TO DOCUMENT AND UNDERSTAND MY HOME NETWORK
 
 ## Screenshots
 
-![Ping Test](Screenshots/Ping-Test.png)
+![Ping Test](Screenshots/PingTest.png)
