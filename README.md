@@ -1,4 +1,4 @@
-# Network-Discovery-Report
+# Network-Discovery-Lab
 A BEGINNER LAB TO DOCUMENT AND UNDERSTAND MY HOME NETWORK
 
 # Findings
