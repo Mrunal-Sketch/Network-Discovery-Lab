@@ -1,24 +1,24 @@
-# Network Findings
+#Network Findings
 
-## Internet Provider
-One Broadband
+Device IP: 192.168.0.102
 
-## Router Model
-TP-Link Archer C20
-
-## Local IP Address
-192.168.0.105
-
-## Default Gateway
+Gateway:
 192.168.0.1
 
-## DNS Server
-192.168.0.1
+Destination Tested:
+google.com
 
-## Connected Devices
-192.168.0.101
-192.168.0.105
+Resolved IP:
+142.251.106.102
 
-## Wi-Fi Name (SSID)
-Mrunal
-Mrunal_5g
+Average Ping:
+127ms
+
+Total Hops:
+17
+
+Observations:
+- Network connectivity successful.
+- Google responded successfully.
+- Some routers did not respond to ICMP.
+- Gateway identified as 192.168.0.1.
