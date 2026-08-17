@@ -8,6 +8,9 @@ A BEGINNER LAB TO DOCUMENT AND UNDERSTAND MY HOME NETWORK
 
 ## Screenshots
 
+### IPConfig
+![IPConfig](Screenshots/IPconfig.png)
+
 ### Ping Test
 ![Ping Test](Screenshots/PingTest.png)
 
