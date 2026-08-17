@@ -9,11 +9,11 @@ A BEGINNER LAB TO DOCUMENT AND UNDERSTAND MY HOME NETWORK
 ## Screenshots
 
 ### IPConfig
-![IPConfig](Screenshots/IPconfig.png)
+![IPConfig](Screenshots/ipconfig.png)
 
 ### Ping Test
-![Ping Test](Screenshots/PingTest.png)
+![Ping Test](Screenshots/ping.png)
 
 ### Tracert Test
-![Tracert Test](Screenshots/TracertTest.png)
+![Tracert Test](Screenshots/tracert.png)
 
